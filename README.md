@@ -1,3 +1,3 @@
 # python
 
-This is a python study guide with simple and basic programs
+This is a python study guide with simple and basic python programs
